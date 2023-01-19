@@ -47,7 +47,7 @@
     "appium-windows-driver": "0.x",
     "argparse": "1.x",
     "asyncbox": "2.x",
-    "babel-runtime": "=5.8.24",
+    "babel-runtime": "5.8.38",
     "bluebird": "2.x",
     "continuation-local-storage": "3.x",
     "date-utils": "1.x",
